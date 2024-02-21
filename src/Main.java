@@ -43,6 +43,7 @@ public class Main {
                }
                }
            } else if (op == 3) {
+               scanner.close();
                return;
            }
        }
